@@ -4,12 +4,6 @@
     <summary><h1 style="display: inline-block">Hey there, I'm Amtul Maswara Ahmed!</h1></summary>
   </ul>
 </div>
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">I try to solve problems.</h2></summary>
-  </ul>
-</div>
 
 
 <!--Intro start-->
